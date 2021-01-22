@@ -5,7 +5,9 @@
   <App id="idAppControl" >
     <pages>
       <Page title="{i18n>title}">
-        <content></content>
+        <content>
+          <Button text="feature-Week1" />
+        </content>
       </Page>
     </pages>
   </App>
